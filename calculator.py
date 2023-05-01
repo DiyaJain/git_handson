@@ -7,6 +7,6 @@ def calculation(x,y):
     print(addition)
     subtraction = sub(x,y)
     print(subtraction)
-    multiplication = multi(x,y)
-    print(multiplication)
+    multiplicationn = multi(x,y)
+    print(multiplicationn)
 
